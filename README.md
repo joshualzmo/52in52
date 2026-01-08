@@ -26,7 +26,7 @@ This challenge documents my growth from a **first-year Computer Science student*
 | Week | Project | Tech | Status | Repo |
 |-----:|--------|------|--------|------|
 | 01 | Personal Finance CLI Ledger | Python | 🟩 | [Link](https://github.com/joshualzmo/52in52/tree/main/week01-finance-ledger) |
-| 02 | Study Planner + Pomodoro | Python | ⬜ | [Link](./week02-study-planner) |
+| 02 | Study Planner + Pomodoro | Python | 🟨 | [Link](./week02-study-planner) |
 | 03 | Smart Flashcards | Python | ⬜ | [Link](./week03-flashcards) |
 | 04 | Password Vault | Python | ⬜ | [Link](./week04-password-vault) |
 | 05 | Text Adventure Engine | Python | ⬜ | [Link](./week05-text-adventure) |
